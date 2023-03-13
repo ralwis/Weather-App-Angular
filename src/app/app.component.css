@@ -1,0 +1,26 @@
+body{
+    background:url('https://c4.wallpaperflare.com/wallpaper/813/410/392/dark-cartoon-clouds-wallpaper-preview.jpg');
+    background-repeat: repeat-y;
+    background-size:cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    color: aliceblue;
+}
+
+.w-icon{
+    width: 35px;
+    height: 30px;
+}
+
+.footer {
+    padding: 15px 0;
+    background: #333;
+    margin-top: 20px;
+    font-size: 15px;
+}
+  
+.footer span {
+    color: #0894d1;
+}
